@@ -1,0 +1,25 @@
+-------------------------------------------------------
+answers.txt
+-------------------------------------------------------
+Author: Muqadas Nazif  
+ID:   169061218   
+Email:  nazi1218@mylaurier.ca
+Date:  2026-01-15  
+-------------------------------------------------------
+Answers for Lab 1
+-------------------------------------------------------
+
+Task 1
+Does the behaviour of the program change in any way?
+
+- No, because both values represent the same number in decimal so the result is the same. 
+
+Task 2
+Is it legal to do this?
+
+- Yes, the instruction executes correctly and stores the doubled value back into r3. 
+
+Task 3
+Is it legal? Does it work now?
+
+- No it is not legal, replace one immediate value with a register makes the instruction legal, and it works correctly. 
