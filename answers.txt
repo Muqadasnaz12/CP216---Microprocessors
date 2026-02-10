@@ -4,12 +4,16 @@ answers.txt
 Author:  Muqadas Nazif 
 ID:      169061218
 Email:   nazi1218@mylaurier.ca
-Date:    02-04-2026
+Date:    2025-02-09
 -------------------------------------------------------
-Answers for Lab 2
+Answers for Lab 3
 -------------------------------------------------------
 
-Task Question : Some of the results of your correct programs may look odd. Remember that you can display the contents of registers in three different ways. Which way makes the most sense to you in what context?
+Task 1
+The value in r3 after the loop is done is -1 in signed decimal and hexadecimal is ffffffff.
 
-Answer:
-Register values can be displayed in decimal, hexadecimal or binary. Decimal is most useful for understanding arithmetic results, hexadecimal is best for seeing memory addresses and binary is helpful for examining bit level operations. The appropriate display depends on what is being analyzed. 
+Task 2
+The address of COUNTER in hexadecimal is 00001020. 
+
+Task 3
+Changing the value of LED_BITS in memory changes the initial pattern of the LED's while changing DELAY_TIME changes the speed of the LED rotation; larger delay values make it slower, and smaller values speed it up. 
